@@ -1,9 +1,8 @@
 //
 //  BillPickerViewController.swift
-//  UI
+//  BankAccountPicker
 //
 //  Created by Sherzod Khashimov on 7/4/18.
-//  Copyright © 2018 Sapphire Promotion Group OOO. All rights reserved.
 //
 
 import UIKit

@@ -1,9 +1,8 @@
 //
 //  BillPickerItem.swift
-//  UI
+//  BankAccountPicker
 //
 //  Created by Sherzod Khashimov on 7/5/18.
-//  Copyright © 2018 Sapphire Promotion Group OOO. All rights reserved.
 //
 
 /// Bank Account Picker Item Model.

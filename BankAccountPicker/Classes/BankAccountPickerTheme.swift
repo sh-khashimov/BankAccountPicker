@@ -1,6 +1,6 @@
 //
 //  BillPickerTheme.swift
-//  firstpod
+//  BankAccountPicker
 //
 //  Created by Sherzod Khashimov on 6/5/19.
 //
