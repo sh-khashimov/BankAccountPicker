@@ -1,0 +1,6 @@
+framework module BankAccountPicker {
+  umbrella header "BankAccountPicker-umbrella.h"
+
+  export *
+  module * { export * }
+}

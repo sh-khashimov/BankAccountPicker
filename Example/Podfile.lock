@@ -1,0 +1,16 @@
+PODS:
+  - BankAccountPicker (0.1.0)
+
+DEPENDENCIES:
+  - BankAccountPicker (from `../`)
+
+EXTERNAL SOURCES:
+  BankAccountPicker:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BankAccountPicker: 300ae82013d39d4169dd20a9ffaf2ff509e65892
+
+PODFILE CHECKSUM: 36cbc6176671596ab50ec60ec01a49461890daf0
+
+COCOAPODS: 1.7.1
