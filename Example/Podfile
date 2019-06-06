@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'BankAccountPicker_Example' do
+  pod 'BankAccountPicker', :path => '../'
+
+  target 'BankAccountPicker_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
