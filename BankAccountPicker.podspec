@@ -33,10 +33,7 @@ This picker was used in the StarBusiness application.
   s.swift_version = '5.0'
 
   s.source_files = 'BankAccountPicker/Classes/**/*'
-  
-   s.resource_bundles = {
-     'BankAccountPicker' => ['BankAccountPicker/Assets/*']
-   }
+  s.resources = ['BankAccountPicker/Assets/*']
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
    s.frameworks = 'UIKit'
