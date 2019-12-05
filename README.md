@@ -3,7 +3,7 @@
 This picker was used in the StarBusiness application.
 
 [![Swift Version][swift-image]][swift-url]
-[![CI Status](https://img.shields.io/travis/SherzodKhashimov/BankAccountPicker.svg?style=flat)](https://travis-ci.org/SherzodKhashimov/BankAccountPicker)
+[![CI Status](https://img.shields.io/travis/sh-khashimov/BankAccountPicker.svg?style=flat)](https://travis-ci.org/sh-khashimov/BankAccountPicker)
 [![Version](https://img.shields.io/cocoapods/v/BankAccountPicker.svg?style=flat)](https://cocoapods.org/pods/BankAccountPicker)
 [![License](https://img.shields.io/cocoapods/l/BankAccountPicker.svg?style=flat)](https://cocoapods.org/pods/BankAccountPicker)
 [![Platform](https://img.shields.io/cocoapods/p/BankAccountPicker.svg?style=flat)](https://cocoapods.org/pods/BankAccountPicker)
