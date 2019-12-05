@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'BankAccountPicker'
-  s.version          = '1.0.3'
+  s.version          = '1.0.4'
   s.summary          = 'Bank Account Picker lets you select an account from the modal picker view.'
 
 # This description is used to generate tags and improve search results.
